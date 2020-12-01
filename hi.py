@@ -63,3 +63,6 @@ def mehmet_tan():
 
 def kubra():
     print("Merhabalar")
+
+def o_gencay_unlu():
+    print("Hello ")
